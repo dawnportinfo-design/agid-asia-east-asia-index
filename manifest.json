@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "agid-index-repository-manifest-v0.1",
+  "repository": "agid-asia-east-asia-index",
+  "kind": "region-index",
+  "owner": "dawnportinfo-design",
+  "canonicalContinent": "asia",
+  "region": "east_asia",
+  "stage": "wave-0-index",
+  "dataReady": true,
+  "sourcePlanVersion": "agid-asia-repository-creation-plan-v1",
+  "generatedAt": "2026-06-29T04:53:08.138Z",
+  "privacy": {
+    "rawAddressStorage": false,
+    "recipientStorage": false,
+    "precisePrivateCoordinates": false,
+    "witnessMaterial": false,
+    "privateKeys": false
+  },
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-jp",
+      "kind": "country-parent",
+      "countryCode": "JP",
+      "countryName": "Japan",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-kr",
+      "kind": "country-parent",
+      "countryCode": "KR",
+      "countryName": "South Korea",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-kp",
+      "kind": "country-parent",
+      "countryCode": "KP",
+      "countryName": "North Korea",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-cn",
+      "kind": "country-parent",
+      "countryCode": "CN",
+      "countryName": "China",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-tw",
+      "kind": "country-parent",
+      "countryCode": "TW",
+      "countryName": "Taiwan",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-hk",
+      "kind": "country-parent",
+      "countryCode": "HK",
+      "countryName": "Hong Kong",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-mo",
+      "kind": "country-parent",
+      "countryCode": "MO",
+      "countryName": "Macau",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-mn",
+      "kind": "country-parent",
+      "countryCode": "MN",
+      "countryName": "Mongolia",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    }
+  ]
+}

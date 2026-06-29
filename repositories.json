@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "agid-related-repositories-v0.1",
+  "repository": "agid-asia-east-asia-index",
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-jp",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "JP",
+      "countryName": "Japan",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Japan; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-kr",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "KR",
+      "countryName": "South Korea",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for South Korea; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-kp",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "KP",
+      "countryName": "North Korea",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for North Korea; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-cn",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "CN",
+      "countryName": "China",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for China; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-tw",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "TW",
+      "countryName": "Taiwan",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Taiwan; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-hk",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "HK",
+      "countryName": "Hong Kong",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Hong Kong; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-mo",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "MO",
+      "countryName": "Macau",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Macau; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-mn",
+      "kind": "country-parent",
+      "region": "east_asia",
+      "countryCode": "MN",
+      "countryName": "Mongolia",
+      "parentRepository": "agid-asia-east-asia-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Mongolia; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    }
+  ]
+}
