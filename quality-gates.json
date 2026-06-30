@@ -29,6 +29,10 @@
     {
       "id": "large-gis-externalized",
       "required": true
+    },
+    {
+      "id": "country-child-split-justified",
+      "required": true
     }
   ]
 }

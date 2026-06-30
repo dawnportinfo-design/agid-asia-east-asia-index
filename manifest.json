@@ -6,6 +6,7 @@
   "canonicalContinent": "asia",
   "region": "east_asia",
   "stage": "wave-0-index",
+  "indexReady": true,
   "dataReady": true,
   "sourcePlanVersion": "agid-asia-repository-creation-plan-v1",
   "generatedAt": "2026-06-29T04:53:08.138Z",
@@ -14,7 +15,9 @@
     "recipientStorage": false,
     "precisePrivateCoordinates": false,
     "witnessMaterial": false,
-    "privateKeys": false
+    "privateKeys": false,
+    "carrierOperationalData": false,
+    "proofSecrets": false
   },
   "relatedRepositories": [
     {

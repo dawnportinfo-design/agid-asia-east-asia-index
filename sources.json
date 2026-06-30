@@ -2,16 +2,18 @@
   "schemaVersion": "agid-source-policy-v0.1",
   "repository": "agid-asia-east-asia-index",
   "sourcePolicy": [
-    "Prefer official government, postal, open GIS, and openly licensed hydrographic sources.",
-    "Keep large GIS extracts, tiles, building polygons, search indexes, and generated caches outside GitHub.",
-    "Track upstream licenses before publishing any country or territory data pack.",
-    "Disputed or special areas require explicit display policy before data publication."
+    "Prefer official government, postal, customs, open GIS, hydrographic, and openly licensed map sources.",
+    "Keep large GIS extracts, tiles, building polygons, search indexes, routing networks, and generated caches outside GitHub.",
+    "Track upstream licenses before publishing any country, territory, island, or special-region data pack.",
+    "Postal-weak, no-postal-code, island, border, disputed, overseas, or special regions require explicit display and source policy before data publication."
   ],
   "noRawMaterial": [
     "raw personal address",
     "recipient record",
     "precise private coordinate",
     "witness material",
-    "private key"
+    "private key",
+    "proof secret",
+    "carrier operational record"
   ]
 }
